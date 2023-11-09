@@ -9,7 +9,7 @@ Cette documentation explique comment écrire un script en langage R pour tester 
 Téléchargement de R : Accédez au site officiel de R (https://www.r-project.org/) et choisissez la version correspondant à votre système d'exploitation (Windows, macOS, Linux). Suivez les instructions pour télécharger et installer R.
 IDE R : Bien que l'utilisation de R puisse se faire dans un éditeur de texte, il est souvent plus convivial d'utiliser un environnement de développement intégré (IDE) comme RStudio (https://www.rstudio.com/products/rstudio/download/) qui offre des fonctionnalités supplémentaires et facilite l'écriture de code R.
 - Quelques packages à installer :
-- Tidyverse : Un ensemble de packages pour la science des données, incluant ggplot2 pour la visualisation et dplyr pour la manipulation de données. ```install.packages("tidyverse"=)```
+- Tidyverse : Un ensemble de packages pour la science des données, incluant ggplot2 pour la visualisation et dplyr pour la manipulation de données. ```install.packages("tidyverse")```
 - ggplot2 : Pour créer des graphiques et des visualisations.
 ```install.packages("ggplot2")```
 -   Pour manipuler les données de manière efficace.```install.packages("dplyr")```
