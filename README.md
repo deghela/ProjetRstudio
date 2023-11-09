@@ -29,7 +29,6 @@ Voici un exemple de code en R pour résoudre le problème des huit dames :
 
 ```R
 library(ggplot2)
-library(reshape2)
 
 trouver_solutions <- function(x, y) {
   solutions <- 0
