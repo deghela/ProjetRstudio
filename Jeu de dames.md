@@ -1,4 +1,4 @@
-
+# Autor Arsene Deghela E5 BDAI
 # Documentation - Tester le positionnement des dames sur un échiquier en R
 
 ## Introduction
